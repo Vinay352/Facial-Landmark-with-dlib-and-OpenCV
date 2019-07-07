@@ -7,6 +7,9 @@ An image by the name "The-68-facial-landmarks-extracted-from-a-frontal-face-view
 The input to the command line should be of the form:
 > python (filename.py) -p (path to the shape_predictor.dat file or facial landmark file) -i (path to the image that you want to run this program on)
 
+## Results
+5 sample outputs have been attached for better understanding of what the output might look like.
+
 ## NOTE:-
  - If in any image the program output does not detect any or some faces in the image, all you need to do is increase the width of the image in Line 19 of this program.
  - Additional references 
