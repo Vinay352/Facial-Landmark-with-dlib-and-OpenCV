@@ -3,6 +3,8 @@ This python program uses dlib, OpenCV, face_recognition and imutils libraries to
 
 An image by the name "The-68-facial-landmarks-extracted-from-a-frontal-face-view.png" is also attached which clearly explains which all 68 features are detected by the pretrained classifer of dlib module.
 
+![alt text](https://raw.githubusercontent.com/Vinay352/Facial-Landmark-with-dlib-and-OpenCV/blob/master/The-68-facial-landmarks-extracted-from-a-frontal-face-view.png)
+
 ## Input
 The input to the command line should be of the form:
 > python (filename.py) -p (path to the shape_predictor.dat file or facial landmark file) -i (path to the image that you want to run this program on)
