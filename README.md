@@ -6,7 +6,7 @@ This python program uses dlib, OpenCV, face_recognition and imutils libraries to
  - Additional references 
     - http://dlib.net/train_shape_predictor.py.html 
     - http://dlib.net/face_landmark_detection.py.html 
-    - http://www.nada.kth.se/~sullivan/Papers/Kazemi_cvpr14.pdf for better understanding.
+    - http://www.nada.kth.se/~sullivan/Papers/Kazemi_cvpr14.pdf
  - <b>(IMP)</b> If you run into an error like "RuntimeError: Unable to open shape_predictor_68_face_landmarks.dat", btw this is the file whose path you have to enter as your first argument for the program, then kindly download the 'face_recognition' module via pip, go to the directory where this module is installed, look for 'face_recognition_models', open it and go to 'models', there you will find four .dat files. Enter the path of any one of the four .dat files as the first input to the program and the error would be resolved.
  
  
